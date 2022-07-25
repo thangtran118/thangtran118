@@ -68,4 +68,4 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<img src="svg/thangtran118-quotes.svg" width="846" height="150" alt="" />
+<img src="svg/thangtran118-quotes.svg" width="846" height="150" alt="" style="max-width: 100%"/>

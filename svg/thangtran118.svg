@@ -82,9 +82,9 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi everyone!
+          Hi! I'm <span class="myname">Tran Chien Thang</span>
           <br/>
-          I'm <span class="myname">Tran Chien Thang</span> - fullstack developer
+          Fullstack Developer
         </div>
         <div class="skills">
           <div class="skills_icon">

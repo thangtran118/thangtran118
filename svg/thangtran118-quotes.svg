@@ -25,9 +25,13 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-      </div>
+				<div class="quotes-eng">
+					"I consider myself to be a incomplete software. However, if I found myself bugs, I will fix it. Days by days I will be a perfect one."
+				</div>
+				<!-- <div class="quotes-vi">
+					"Tôi coi bản thân là một phần mềm chưa hoàn thiện, sẽ có những lỗi. Nhưng sai thì sửa, bugs thì fix, tôi sẽ tốt hơn mỗi ngày!"
+				</div> -->
+			</div>
 		</div>
 	</foreignObject>
 </svg>

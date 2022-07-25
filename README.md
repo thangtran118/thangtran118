@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/thangtran118.svg" width="1200" alt="" />
 </a>
@@ -33,10 +32,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangtran118&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thangtran118&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -47,16 +46,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://tranchienthang.vn" target="blank">
+  <a href="https://tranchienthang.vn" target="_blank">
     <img width="90" height="90" src="./images/logo.png" alt="my portfolio" />
   </a>
-  <a href="https://facebook.com/thangtc.work" target="blank">
+  <a href="https://facebook.com/thangtc.work" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/thangtran118" target="blank">
+  <a href="https://www.linkedin.com/in/thangtran118" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="mailto:toi@tranchienthang.vn" target="top">
+  <a href="mailto:toi@tranchienthang.vn" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
@@ -66,6 +65,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/thangtran118-quotes.svg" width="846" height="150" alt="" />
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)<img src="svg/thangtran118-quotes.svg" width="846" height="150" alt="" />
 </a>
 

@@ -50,16 +50,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://tranchienthang.vn" target="_blank">
+  <a href="https://tranchienthang.vn" target="_blank" rel="noopener noreferrer" >
     <img width="90" height="90" src="./images/logo.png" alt="my portfolio" />
   </a>
-  <a href="https://facebook.com/thangtc.work" target="_blank">
+  <a href="https://facebook.com/thangtc.work" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/thangtran118" target="_blank">
+  <a href="https://www.linkedin.com/in/thangtran118" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="mailto:toi@tranchienthang.vn" target="_top">
+  <a href="mailto:toi@tranchienthang.vn" target="_top" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
@@ -68,6 +68,6 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<p>
+<a href="">
   <img src="svg/thangtran118-quotes.svg" width="846" height="150" alt="" style="max-width: 100%"/>
-</p>
+</a>
